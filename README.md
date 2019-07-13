@@ -1,7 +1,11 @@
-# -lbum-de-fotos-laravel
-# -lbum-de-fotos-laravel
-# Exemplo-lbum-de-Fotos
-# Exemplo-lbum-de-Fotos
-# Laravel-Gerenciador-de-Cartas
-# Laravel-Cartas
-# Laravel-Cartas
+# Gerenciador de Cartas Empresarial
+
+Simple program to mange company's inner and out post-cards or similars.
+
+Just clone it on a laravel enviroment.
+
+For background images, just do a "ph partisan storage:link", put the image and link in body class.
+
+Hope you enjoy!
+
+Cheers.
