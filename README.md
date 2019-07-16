@@ -1,6 +1,6 @@
 # Gerenciador de Cartas Empresarial
 
-Simple program to mange company's inner and out post-cards or similars.
+Simple program to manage company's inner and out post-cards or similars.
 
 Just clone it in a laravel enviroment and set your database connection.
 
